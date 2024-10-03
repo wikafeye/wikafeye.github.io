@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wikafeye.github.io/sitemap/sitemap_index.txt.gz
